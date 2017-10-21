@@ -1,2 +1,2 @@
 # -git-github
-MyFirstGitTest
+This is for tutorial purpose.
